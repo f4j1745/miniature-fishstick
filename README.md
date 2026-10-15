@@ -1,5 +1,7 @@
 # Domain Sort
 
+<img align="left" src="images/icon.png" hspace="30">
+
 A tiny VSCodium / VS Code extension with two practical commands for
 people who work with lists of domains:
 
@@ -9,6 +11,8 @@ people who work with lists of domains:
 2. **Extract the `host` field** from lines of JSON (e.g. output from
    [subfinder](https://github.com/projectdiscovery/subfinder) with
    `-json`).
+
+<br clear="left"/>
 
 ## Features
 
