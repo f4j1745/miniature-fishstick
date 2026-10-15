@@ -1,5 +1,5 @@
 {
-  "name": "Domain-sort",
+  "name": "domain-sort",
   "displayName": "Domain Sort",
   "description": "Sort lines by top-level domain and extract the host field from JSON lines.",
   "version": "0.0.1",
